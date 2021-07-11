@@ -1,0 +1,25 @@
+# openweathermap의 각 항목설명
+
+id			도시ID
+name			도시이름
+coord.lat/coord.lon 	위도와 경도
+
+weather.main		날씨
+weather.description		날씨 설명
+
+main.temp		기온(켈빈온도)
+main.temp_min/main.temp_max	최저기온/최고온도(켈빈)
+main.humidity		습도(%)
+main.pressure		기압
+
+wind.speed		풍속
+wind.deg			풍향(북:0, 동=90, 남=180, 서=270)
+
+clouds.all			구름의 양(%)
+
+dt			데이터시간(UNIX타임 형식)
+
+sys.sunrise		일출시간
+sys.sunset		일몰시간
+
+visibility			시야(m)

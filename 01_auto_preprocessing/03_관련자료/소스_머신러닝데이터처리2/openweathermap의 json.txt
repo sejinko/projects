@@ -1,0 +1,58 @@
+﻿#OpenWeatherMap의 API 결과(JSON Data)
+
+{
+   "coord":{"lon":126.98,"lat":37.57},
+
+   "weather":[
+        {  "id":500,
+           "main":"Rain",
+           "description":"light rain",
+           "icon":"10d"
+        },
+
+        {"id":701,
+         "main":"Mist",
+         "description":"mist",
+         "icon":"50d"
+         }
+     ],
+
+    "base":"stations",
+
+    "main":
+     {
+      "temp":280.76,
+      "pressure":1021,
+      "humidity":66,
+      "temp_min":280.15,
+      "temp_max":281.15
+     },
+
+     "visibility":4800,
+
+     "wind":
+     {
+       "speed":6.7,
+       "deg":210
+     },
+
+     "clouds":{ "all":90 },
+
+     "dt":1511584080,
+
+     "sys":
+     {
+       "type":1,
+       "id":7676,
+       "message":0.0489,
+       "country":"KR",
+       "sunrise":1511562128,
+       "sunset":1511597742
+      },
+
+     "id":1835848,    
+
+     "name":"Seoul",
+
+     "cod":200
+}
