@@ -61,10 +61,10 @@ __The kichen is dead__
 이에따라 선순환 구조도 변경되었다.
 
 ### 기존 선순환
-![선순환(기존)](image/선순환(기존).png)
+![선순환(기존)](./image/positive_cycle_origin.png)
 
 ### 수정 선순환
-![선순환(수정)](./image/선순환(수정).png)
+![선순환(수정)](./image/positive_cycle_new.png)
 
 자세한 내용은 아래와 같다.
 
