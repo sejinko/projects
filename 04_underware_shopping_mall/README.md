@@ -6,6 +6,4 @@
 
 Python을 사용했고 Jupyter notebook에서 분석을 진행함.
 
-과제 4번은 statsmodels 패키지를 가져와서 사용함.
-
-주제는 아래와 같음.
+statsmodels 패키지를 가져와서 사용함.
